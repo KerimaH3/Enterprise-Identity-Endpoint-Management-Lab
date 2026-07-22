@@ -76,7 +76,7 @@ This project demonstrates core Microsoft Entra ID (Azure Active Directory) ident
 ![Entra Overview](screenshots/Entra-Overview.png)
 
 ### Micrsoft 365 Admin Center
-![Microsoft 365 Admin Cnters](screenshots/Microsoft365-Amin-Cnter.png)
+![Microsoft 365 Admin Cnters](screenshots/Microsoft365-Admin-Cnter.png)
 
 ## User Management 
 
@@ -121,7 +121,7 @@ This project demonstrates core Microsoft Entra ID (Azure Active Directory) ident
 
 ## Liecense Management 
 
-### BEfore License Assignment
+### Before License Assignment
 
 ![License Before](screenshots/License-Before.png)
 
@@ -129,10 +129,10 @@ This project demonstrates core Microsoft Entra ID (Azure Active Directory) ident
 
 ![License Assigned](screenshots/License-assigned.png)
 
-## Role-Based Access Control (RBAc)
+## Role-Based Access Control (RBAC)
 
 ### User Administrator Role Assignment
-![RBAC](screenshots/user-Administrator-Role.png)
+![RBAC](screenshots/User-Administrator-Role.png)
 
 ## Conditional Access
 
@@ -140,9 +140,9 @@ This project demonstrates core Microsoft Entra ID (Azure Active Directory) ident
 ![Conditional Access](screenshots/Create-Conditional-Access-Policy.png)
 
 ### Conditional Access Policy Created
-![Conditional Access Created](screenshots/Conditional-Access-Policy.png)
+![Conditional Access Created](screenshots/Conditional-Access-Policy-created.png)
 
 ## Auditing
 
 ### Audit Log Details
-![Audit Logs] (screenshots/Audit-Log-Details.png)
+![Audit Logs](screenshots/Audit-Log-Details.png)
