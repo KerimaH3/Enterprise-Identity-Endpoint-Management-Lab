@@ -140,7 +140,7 @@ This project demonstrates core Microsoft Entra ID (Azure Active Directory) ident
 ![Conditional Access](screenshots/Create-Conditional-Access-Policy.png)
 
 ### Conditional Access Policy Created
-![Conditional Access Created](screenshots/Conditional-Access-Policy-created.png)
+![Conditional Access Created](screenshots/Conditional-Access-Policy-Created.png)
 
 ## Auditing
 
