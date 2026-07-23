@@ -25,9 +25,25 @@ This project demonstrates core Microsoft Entra ID (Azure Active Directory) ident
 - Documentation
 - Git & GitHub Version Control
 
-## Lab TakesCompleted
+## Lab Tasks Completed
+
+### User Administration
+- Created Microsoft Entra ID users
+- Updated user properties
+- Reset user passwords
+- Enabled and disabled user accounts
+  
+### Group Management
+- Created Security Groups
+- Assigned users to groups
+- Verified group memberships
+
+### License Management
+- Assigned Microsoft 365 licenses
+- Verfied license assignments
+  
 ### User Managment 
--created multiple Microsoft Entra ID users
+- created multiple Microsoft Entra ID users
 - Updated user properties
 - Enabled and disabled user accounts
 - Reset user passwords
@@ -37,35 +53,96 @@ This project demonstrates core Microsoft Entra ID (Azure Active Directory) ident
 - Added users to security groups
 - Verified group memberships
 
-### License Managment
-- Assigned Microsoft 365 licenses
-- Verified license assignments
+### Identity Administration
+- Managed the User Administrator role
+- Verified role assignments
 
 ### Role-Based Access control (RBAC)
 - Assigned the user Administrator role 
 - Verfied role assignments
 
 ### Conditional Access
-Created a Conditonal Access policy:
+- Created an MFA policy for administrators
+- Configured policy in Report-only mode
+- Applied policy to administrator role
 
-- Require MFA for Administration
-- Applied to administrator role
-- Configured in Report-only mode
+### Monitoring
+- Reviewed Microsoft Entra Audit Logs
+- Verified administrative activities
+
 
 ## Screenshots
 ### Microsoft Entra Overview
 ![Entra Overview](screenshots/Entra-Overview.png)
 
 ### Micrsoft 365 Admin Center
-![Microsoft 365 Admin Cnters](screenshots/Microsoft365-Amin-Cnter.png)
+![Microsoft 365 Admin Cnters](screenshots/Microsoft365-Admin-Cnter.png)
 
-### Creating Users
-![Creating User)[screenshots/Creating-First-User.png)
+## User Management 
+
+### All Users
+![All Users](screenshots/All-Users.png)
+
+
+### Create First User
+![Creating User](screenshots/Creating-First-User.png)
+
+### User Overview
+![User Overview](screenshots/User-Overview.png)
+
+### Edit User Properties
+![Edit User](screenshots/User-Overview.png)
+
+### Updated User Profile
+![Updated User](screenshots/Updated-User-Profile.png)
+
+### Password Reset
+![Password Reset](screenshots/Password-Reset.png)
+
+### Enable User
+![Enable User](screenshots/Enable-User.png)
+
+### Disable User
+![Disable User](screenshots/Disable-User.png)
+
+## Group Management 
+
 ### Creating Security Groups
-![Microsoft 365 Admin Cnters](screenshots/Microsoft365-Amin-Cnter.png)
+![Security Group](screenshots/Creating-Security-Group.png)
 
-### Assigning Users to Groups
-![Microsoft 365 Admin Cnters](screenshots/Microsoft365-Amin-Cnter.png)
+### Assigning Users to IT Groups
+![Assign User](screenshots/Assigning-User-to-IT-Group.png)
 
-### 
-  
+### Engineering Group Members
+![Engineerin Members](screenshots/Engineering-Group-Members.png)
+
+### Security Groups
+![Security Groups](screenshots/Security-Groups%20(2).png)
+
+## Liecense Management 
+
+### Before License Assignment
+
+![License Before](screenshots/License-Before.png)
+
+### Assigned License
+
+![License Assigned](screenshots/License-assigned.png)
+
+## Role-Based Access Control (RBAC)
+
+### User Administrator Role Assignment
+![RBAC](screenshots/User-Administrator-Role.png)
+
+## Conditional Access
+
+### Create Conditional Access Policy 
+![Conditional Access](screenshots/Create-Conditional-Access-Policy.png)
+
+### Conditional Access Policy Created
+![Conditional Access Created](screenshots/Conditional-Access-Policy-Created.png)
+
+## Auditing
+
+### Audit Log Details
+![Audit Logs](screenshots/Audit-Log-Details.png)
